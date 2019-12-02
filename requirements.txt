@@ -173,6 +173,6 @@ urllib3==1.25.3
 watchdog==0.9.0
 websocket-client==0.56.0
 websocket-server==0.4
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 whereami==0.4.85
 xacro==1.11.3
